@@ -1,0 +1,44 @@
+{
+  "name": "woshifuyu",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@luxdamore/vue-fake3d-image-effect": "^1.3.0",
+    "axios": "^0.27.2",
+    "echarts": "^5.3.3",
+    "element-ui": "^2.15.9",
+    "highlightjs-line-numbers.js": "^2.8.0",
+    "html-loader": "^4.1.0",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^2.5.1",
+    "lib-flexible": "^0.3.2",
+    "lib-flexible-computer": "^1.0.2",
+    "markdown-loader": "^8.0.0",
+    "node-sass": "^4.14.1",
+    "postcss-px2rem": "^0.3.0",
+    "sass-loader": "^8.0.0",
+    "vue": "^2.6.14",
+    "vue-markdown": "^2.2.4",
+    "vue-router": "^3.5.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "file-loader": "^6.2.0",
+    "github-markdown-css": "^5.1.0",
+    "highlight.js": "^11.6.0",
+    "postcss-loader": "^3.0.0",
+    "px2rem-loader": "^0.1.9",
+    "url-loader": "^4.1.1",
+    "vue-template-compiler": "^2.6.14"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
